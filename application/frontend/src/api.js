@@ -1,3 +1,3 @@
 // src/api.js
-const API_URL = "http://three-tier-alb-41356868.us-east-1.elb.amazonaws.com";
+const API_URL = "https://d136h1kvd4h68c.cloudfront.net";
 export default API_URL;
